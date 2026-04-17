@@ -6,8 +6,8 @@
 <p align="center">
   🔭 I’m currently working on <b>Chatbot & Web Projects</b><br><br>
   🌱 I’m currently learning <b>Data Structures in C++, MERN Stack</b><br><br>
-  💬 I’m passionate about <b>Problem Solving & Competitive Programming</b><br><br>
-  🔗 Here's my LeetCode Handle <a href="[https://leetcode.com/](https://leetcode.com/u/kundan_001/)">here</a><br><br>
+  💬 I’m passionate about <b>Problem Solving </b><br><br>
+  🔗 Here's my LeetCode Handle <a href="https://leetcode.com/u/kundan_001/">here</a><br><br>
   ⚡ <b>Anything worth doing is worth overdoing</b>
 </p>
 
