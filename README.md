@@ -8,7 +8,10 @@
   🌱 I’m currently learning <b>Data Structures in C++, MERN Stack</b><br><br>
   💬 I’m passionate about <b>Problem Solving </b><br><br>
   🔗 Here's my LeetCode Handle <a href="https://leetcode.com/u/kundan_001/">here</a><br><br>
-  ⚡ <b>Anything worth doing is worth overdoing</b>
+  ⚡ <b>Anything worth doing is worth overdoing
+      just follow patterns and move forward
+  </b>
+   
 </p>
 
 ---
