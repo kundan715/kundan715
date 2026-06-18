@@ -9,7 +9,7 @@
   💬 I’m passionate about <b>Problem Solving </b><br><br>
   🔗 Here's my LeetCode Handle <a href="https://leetcode.com/u/kundan_001/">here</a><br><br>
   ⚡ <b>Anything worth doing is worth overdoing
-      just follow patterns and move forward
+      (just follow patterns and move forward )
   </b>
    
 </p>
